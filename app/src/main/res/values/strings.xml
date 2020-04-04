@@ -1,13 +1,12 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="name">Erfoo</string>
+    <string name="name">Baher</string>
     <string name="yellow_star">Yellow star</string>
-    <string name="bio">ALbyyyyyyyyyy \n\n
-    Erfoo Kol Sna w anta tyb ya 25oya w yarab tkon sna s3eda 3lak \n\n
-        Isa lma 2l7zr dh y5ls lazm tl3a Sobhy b2a 2na b4of 2lswr 2lby byt2t3 \n\n
-        ISA Graduation Project n5ls 2lm4ro3 2l3rs dh 3la 5er \n\n
-        3ayzak t4d gamed f 2lakl b2a 34an ta5od 23fa mn ge4 isa 2nta 23d f 2lbat b2a dos Gamed \n\n
-    M3l4 hwa App ses 4wyaa bs hzbto isa b3d kda\n\n
+    <string name="bio">Engineering Student in Faculty of Engineering, Ainshams University, Computer and Systems Department
+
+It was passion for me to be a Computer Engineer, I found Software Development, Embedded systems and Artificial intelligence(AI) the most interesting fields for me.
+
+I always want to impress people than being myself impressed,I believe that hard working and god blessing are the keys for success, So I Always try to do my best to achieve my goals,My Dream to be one of the few people who Makes a great impact on our future
     </string>
     <string name="what_is_your_nickname">What is your Nickname ?</string>
     <string name="done">Done</string>

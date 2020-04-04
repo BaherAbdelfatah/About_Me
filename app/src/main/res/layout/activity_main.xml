@@ -51,7 +51,7 @@
         android:layout_height="148dp"
         android:layout_marginTop="@dimen/layout_margin"
         android:contentDescription="@string/yellow_star"
-        app:srcCompat="@drawable/erfo" />
+        app:srcCompat="@drawable/baher" />
 
     <ScrollView
         android:id="@+id/bio_scroll"
