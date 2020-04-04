@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Baher</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Engineering Student in Faculty of Engineering, Ainshams University, Computer and Systems Department
+
+It was passion for me to be a Computer Engineer, I found Software Development, Embedded systems and Artificial intelligence(AI) the most interesting fields for me.
+
+I always want to impress people than being myself impressed,I believe that hard working and god blessing are the keys for success, So I Always try to do my best to achieve my goals,My Dream to be one of the few people who Makes a great impact on our future
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname ?</string>
+    <string name="done">Done</string>
+
 </resources>
